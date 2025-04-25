@@ -29,7 +29,7 @@ const projectsData = [
     description: "The Library Management System using DSA is a console-based project that manages tasks like adding, issuing, returning, and searching books. It uses data structures such as arrays, linked lists, stacks, and queues to handle records efficiently. The project showcases how core DSA concepts can be applied to solve real-world problems.",
     image: "/images/project_3.png",
     tag: ["All Projects"],
-    gitUrl: "https://github.com/kazekunal/buzz_job",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
